@@ -1,10 +1,10 @@
 ## Hi there 👋, I'm Uttam Dutta
 ### Web Developer | Tech Team Member at IEEE JU SB 
 
-#### Hi my self Uttam Dutta 
-#### Student at Jadavpur University EE'21-25.
-#### Here
-#### to work as a team, in a challenging & dynamic environment with maximum utilization of my skills & knowledge for continuous improvement of the vision of the company
+Hi my self Uttam Dutta 
+Student at Jadavpur University EE'21-25.
+Here
+to work as a team, in a challenging & dynamic environment with maximum utilization of my skills & knowledge for continuous improvement of the vision of the company
 
 Skills: HTML / CSS / JS / C++ / C#
 
