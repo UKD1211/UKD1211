@@ -1,6 +1,5 @@
 ### Hi there 👋, I'm Uttam Dutta
 #### Web Developer | Tech Team Member at IEEE JU SB 
-![Web Developer | Tech Team Member at IEEE JU SB ](https://scontent.fccu11-1.fna.fbcdn.net/v/t39.30808-6/291841767_175109144965663_868770503610045879_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=uabk5h7BK90AX8jMNq-&_nc_oc=AQlf1DaYzGIjjO2zvjtg4EuLCYk__YKR9lz5M5KhM77z9RH53USB7oHsKEbtyU4AAr_INhmIKvD8f62iTL0b_VVS&_nc_ht=scontent.fccu11-1.fna&oh=00_AT9MaJtE2vkCM5hM57xS_rlizckYKt1TmfO7ruUJaIvI5g&oe=63495FDE)
 
 Hi my self Uttam Dutta 
 Student at Jadavpur University EE'21-25.
