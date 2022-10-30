@@ -12,6 +12,8 @@ Skills: HTML / CSS / JS / C++ / C#
 - 🌱 I’m currently learning Javascript,DSA,PHP 
 - 👯 I’m looking to collaborate on github 
 
+https://www.holopin.io/userbadge/cl9v93zzi068008mfvhxd9xgp
+
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/UKD1211)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/uttam-dutta-002110801216ukd/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/uttamdutta467/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://ukd1211.github.io/UTTAM-DUTTA-PORTFOLIO-SITE/)  
 
