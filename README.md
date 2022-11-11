@@ -6,7 +6,7 @@ Student at Jadavpur University EE'21-25.
 Here
 to work as a team, in a challenging & dynamic environment with maximum utilization of my skills & knowledge for continuous improvement of the vision of the company
 
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/2gfRHLv6GZ8AAAAd/code-coding.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 Skills: HTML / CSS / JS / C++ / C#
 
