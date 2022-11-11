@@ -15,7 +15,6 @@ Skills: HTML / CSS / JS / C++ / C#
 - 🔭 I’m currently working on Blockchain Development 
 - 🌱 I’m currently learning Javascript,DSA,PHP 
 - 👯 I’m looking to collaborate on github 
-- 
 
 [![@ukd1211's Holopin board](https://holopin.me/ukd1211)](https://holopin.io/@ukd1211)
 
