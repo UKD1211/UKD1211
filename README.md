@@ -41,6 +41,8 @@ Skills: HTML / CSS / JS / C++ / C#
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=UKD1211)](https://github.com/ryo-ma/github-profile-trophy)
 
+https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white
+
 
 ![GitHub metrics](https://metrics.lecoq.io/UKD1211)  
 
