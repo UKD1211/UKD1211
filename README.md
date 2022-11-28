@@ -42,7 +42,7 @@ Skills: HTML / CSS / JS / C++ / C#
 [![trophy](https://github-profile-trophy.vercel.app/?username=UKD1211)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-![GitHub metrics](https://metrics.lecoq.io/UKD1211)  
+<!-- ![GitHub metrics](https://metrics.lecoq.io/UKD1211)   -->
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=UKD1211)  
 
