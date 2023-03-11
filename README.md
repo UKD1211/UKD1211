@@ -1,5 +1,5 @@
 ## Hi there 👋, I'm Uttam Dutta
-### Web Developer | Tech Team Member at IEEE JU SB 
+### Front End Developer | Tech Team Member at IEEE JU SB 
 
 Hi my self Uttam Dutta 
 Student at Jadavpur University EE'21-25.
