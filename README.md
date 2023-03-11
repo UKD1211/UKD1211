@@ -49,5 +49,8 @@ Skills: c#/ c++/ js/ HTML/ css/ scss/ React/ SOL
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=UKD1211)  
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
 ![Profile views](https://gpvc.arturio.dev/UKD1211)  
 
