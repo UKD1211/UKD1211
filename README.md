@@ -51,5 +51,6 @@ Skills: c#/ c++/ js/ HTML/ css/ scss/ React/ SOL
 
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
 ![Profile views](https://gpvc.arturio.dev/UKD1211)  
 
