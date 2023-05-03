@@ -14,9 +14,9 @@ to work as a team, in a challenging & dynamic environment with maximum utilizati
 Skills: c#/ c++/ js/ HTML/ css/ sass/ React/ SOL 
 
 - 🔭 currently working on Blockchain Development 
-- 🌱 currently learning DSA,ExpressJS. 
+- 🌱 currently learning DSA,NextJS. 
 - 👯 looking to collaborate on github. 
-- 🤔 looking for help with node js 
+- 🤔 looking for help with Asynchronous Js topics (promises, callbacks) 
 
 [![@ukd1211's Holopin board](https://holopin.me/ukd1211)](https://holopin.io/@ukd1211)
 
