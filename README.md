@@ -14,7 +14,7 @@ to work as a team, in a challenging & dynamic environment with maximum utilizati
 Skills: c#/ c++/ js/ HTML/ css/ sass/ React/ SOL 
 
 - 🔭 currently working on Blockchain Development 
-- 🌱 currently learning DSA,NextJS. 
+- 🌱 currently learning DSA,ReactNative. 
 - 👯 looking to collaborate on github. 
 - 🤔 looking for help with Asynchronous Js topics (promises, callbacks) 
 
