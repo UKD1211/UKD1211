@@ -15,7 +15,7 @@ to work as a team, in a challenging & dynamic environment with maximum utilizati
 - 👯 looking to collaborate on **github**.
 - 🤔 looking for help with **promises**, **callbacks**
 - 💬 Ask me about anything. I will be 😃 to help you.
-📫 How to reach me: Send an email to me at uttamdutta1211@gmail.com
+- 📫 How to reach me: Send an email to me at uttamdutta1211@gmail.com
 
 ## 📒 My OpenSource Badges
 
