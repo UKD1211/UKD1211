@@ -26,7 +26,7 @@ to work as a team, in a challenging & dynamic environment with maximum utilizati
 <p align="left">
 <a href="https://twitter.com/UttamkantiDutta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shlokjjw" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/uttam-dutta-002110801216ukd/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shlokjjw/" height="30" width="40" /></a>
-<a href="https://discord.com/channels/1041272554817605662/1041272554817605664" target="blank"><img align="center" src="https://camo.githubusercontent.com/5b475732a4ed305b1041d81185353428fb9860f5e5a5fe3249ee547e3b5aa69b/68747470733a2f2f63646e2e7261776769742e636f6d2f4e4e54696e2f646973636f72642d6c6f676f2f66343333333334342f7372632f6173736574732f616e696d61746564646973636f72642e737667" alt="Shlok Jhunjhunwala" height="30" width="40" /></a>
+
 </p>
 
 
